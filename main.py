@@ -1,3 +1,6 @@
+len(print("Hola_borjaa"))
+print('codigo_values_borja')
+print("Hola Equipo")
 print("Hola mundo")
 print('codigo_values')
 print("Soy DanielMasana")
